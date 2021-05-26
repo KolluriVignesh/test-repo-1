@@ -1,1 +1,3 @@
 import num
+
+print(a)
