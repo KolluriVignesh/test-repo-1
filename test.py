@@ -1,3 +1,3 @@
-import num
+print("hello")
 
-print(a)
+print("hi i am vignesh")
